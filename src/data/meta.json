@@ -1,9 +1,11 @@
 {
-    "title": "The Wilson Ward Family History",
-    "description": "The family history of the Wilson and Ward lines",
-    "url": "https://wilsonward.netlify.app/",
+    "title": "🌳 The Gatward Family History",
+    "description": "The family history of the Gatward family",
+    "url": "https://gatwardfamily.netlify.app/",
     "lang": "en",
     "locale": "en_gb",
-    "cloudinary_url": "https://res.cloudinary.com/rdsaunders/"
+    "cloudinary_url": "https://res.cloudinary.com/rdsaunders/",
+    "repository": "https://github.com/richardgatward/family-tree",
+    "author": "Richard Gatward"
 
 }
